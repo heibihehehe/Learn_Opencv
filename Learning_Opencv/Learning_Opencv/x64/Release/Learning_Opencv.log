@@ -1,0 +1,13 @@
+﻿  function_list.cpp
+function_list.cpp(104): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+function_list.cpp(105): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+function_list.cpp(112): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+function_list.cpp(114): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码
+  14 of 186 functions ( 7.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Learning_Opencv.vcxproj -> D:\Learn_Opencv\Learning_Opencv\x64\Release\Learning_Opencv.exe
+  Learning_Opencv.vcxproj -> D:\Learn_Opencv\Learning_Opencv\x64\Release\Learning_Opencv.pdb (Full PDB)
